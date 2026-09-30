@@ -50,4 +50,4 @@ src/main/java/com/hendrix/jeudeloie/
 
 ## Auteur
 
-Hendrix Kadiebwe – [GitHub](https://github.com/Hendrix44)
+Emmanuel Kadiebwe
